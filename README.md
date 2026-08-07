@@ -1,6 +1,6 @@
-# Arduino-Auto-Trash-Can
+# Auto-Trash-Can-Opener
 
-This is a hands free trash can opening system, the trash can opens automatically when a hand is detected.
+This is a hands free trash can opening system, the trash can opens automatically when a hand is detected by the ultrasonic sensor.
 
 ## Description
 An HC-SR04 ultrasonic sensor detects when a hand approaches within 20cm. A servo motor then opens the lid, holds it for 3 seconds, and closes it automatically. Enclosure CAD designed and cardboard prototyped, with 3D print pending.
